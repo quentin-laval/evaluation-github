@@ -2,13 +2,13 @@
     
     background-color: rgb(166, 41, 42);
            
-    color: #180404;
-        padding: 10px 0;
+    color:rgb(249, 19, 27);
+        padding: 40px 0;
         position:absolute;
-        top:0%;
+        top: 20px;;
         left:0%;
         height:75px; 
-        width:100%;
+        width:95%;
         text-align: center;
          
 
@@ -19,13 +19,13 @@
         background-color: rgb(100, 149, 237);
                
         color: #180404;
-            padding: 10px ;
+            padding: 45px ;
             position:absolute;
             top:30%;
             left:0%;
             height:350px; 
-            width:99%;
-            text-align: justify;
+            width: 94%;
+            text-align: center;
     
     }
 
@@ -34,9 +34,9 @@
         background-color: rgb(189, 183, 107);
                
         color: #180404;
-            padding: 90px 0;
+            padding:25 0;
             position:absolute;
-            top: 76%;
+            top: 80%;
             bottom: 0%;
             left:0%;
             height: 100px; 
@@ -44,3 +44,40 @@
             text-align: center;
             
     }
+.bleu{
+    background-color: rgb(38,119,165);
+            position:absolute;
+            text-align: center;
+            top:20%;
+            left:0%;
+            height:200px; 
+            width:30%;
+            text-align: justify;
+            
+
+
+
+
+
+
+    }
+
+    .positioned {
+        position: absolute;
+        background-color: rgb(100, 149, 237);
+        color: rgb(0, 0, 0);
+        top: 5%;
+        left: 5%;
+      }
+
+      .verte{
+        background-color: rgb(71, 225, 135);
+        padding: 10px ;
+        position: absolute;
+        top:0%;
+        left:250%;
+        height:250px; 
+        width:50%;
+        text-align: justify;
+
+      }
