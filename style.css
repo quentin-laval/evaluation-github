@@ -1,0 +1,30 @@
+bandeau {
+    
+    background-color: #ec0707;
+           
+    color: #180404;
+        padding: 10px 0;
+        position:absolute;
+        top:0%;
+        left:0%;
+        height:20%; 
+        width:100%;
+        text-align: center;
+         
+
+    }
+
+    bleu{
+    
+        background-color: #0750ec;
+               
+        color: #180404;
+            padding: 10px ;
+            position:absolute;
+            top:30%;
+            left:0%;
+            height:50%; 
+            width:99%;
+            text-align: justify;
+    
+    }
